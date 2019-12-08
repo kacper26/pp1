@@ -1,0 +1,4 @@
+from QuadraticEquation import*
+
+obliczPierwiastki()
+
