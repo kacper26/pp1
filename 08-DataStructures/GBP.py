@@ -25,3 +25,7 @@ GBP = {
         }
     ]
 }
+
+
+for x in GBP['rates']:
+    print()
